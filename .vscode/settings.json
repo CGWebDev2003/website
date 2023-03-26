@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "CG Media Theme",
+    "workbench.iconTheme": "bearded-icons",
+    "cmder-here.cmderLocation": "C:\\xampp\\htdocsCmder.exe",
+    "editor.linkedEditing": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "window.zoomLevel": 2,
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open"
+}
